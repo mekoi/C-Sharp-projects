@@ -1,0 +1,17 @@
+{
+  "Comment": "State Machine",
+  "StartAt": "ImageRecognitionSaveToDynamoDB",
+  "States": {
+    "ImageRecognitionSaveToDynamoDB": {
+      "Type": "Task",
+      "Resource": "${ImageRecognitionSaveToDynamoDB.Arn}",
+      "InputPath": "$.detail.requestParameters",
+      "Next": "ThumbnailGeneration"
+    },
+    "ThumbnailGeneration": {
+      "Type": "Task",
+      "Resource": "${ThumbnailGeneration.Arn}",
+      "End": true
+    }
+  }
+}

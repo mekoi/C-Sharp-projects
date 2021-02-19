@@ -1,0 +1,12 @@
+--1. Get a list of all the titles and the authors who wrote them. Sort the results by title. 
+
+select distinct Titles.Title, Authors.FirstName, Authors.LastName from (titles inner join AuthorISBN on Titles.ISBN=AuthorISBN.ISBN)
+				inner join Authors on AuthorISBN.AuthorID=Authors.AuthorID
+order by Titles.Title
+
+--2. Get a list of all the titles and the authors who wrote them. Sort the results by title. Each title sort the authors alphabetically by last name, then first name
+select distinct Titles.Title, Authors.FirstName, Authors.LastName from (titles inner join AuthorISBN on Titles.ISBN=AuthorISBN.ISBN)
+				inner join Authors on AuthorISBN.AuthorID=Authors.AuthorID
+order by Titles.Title,Authors.LastName, Authors.FirstName
+
+--3. Get a list of all the authors grouped by title, sorted by title; for a given title sort the author names alphabetically by last name then first name.

@@ -1,0 +1,151 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IrisiMekoLab4/1.0.0": {
+        "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.5.3",
+          "AWSSDK.Rekognition": "3.5.2.15",
+          "AWSSDK.S3": "3.5.5.2",
+          "Amazon.Lambda.Core": "1.2.0",
+          "Amazon.Lambda.S3Events": "1.2.0",
+          "Amazon.Lambda.Serialization.SystemTextJson": "2.1.0"
+        },
+        "runtime": {
+          "IrisiMekoLab4.dll": {}
+        }
+      },
+      "Amazon.Lambda.Core/1.2.0": {
+        "runtime": {
+          "lib/netstandard2.0/Amazon.Lambda.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Amazon.Lambda.S3Events/1.2.0": {
+        "dependencies": {
+          "AWSSDK.S3": "3.5.5.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Amazon.Lambda.S3Events.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Amazon.Lambda.Serialization.SystemTextJson/2.1.0": {
+        "dependencies": {
+          "Amazon.Lambda.Core": "1.2.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Amazon.Lambda.Serialization.SystemTextJson.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "AWSSDK.Core/3.5.1.42": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.5.1.42"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.5.3": {
+        "dependencies": {
+          "AWSSDK.Core": "3.5.1.42"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.5.3.0"
+          }
+        }
+      },
+      "AWSSDK.Rekognition/3.5.2.15": {
+        "dependencies": {
+          "AWSSDK.Core": "3.5.1.42"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Rekognition.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.5.2.15"
+          }
+        }
+      },
+      "AWSSDK.S3/3.5.5.2": {
+        "dependencies": {
+          "AWSSDK.Core": "3.5.1.42"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.S3.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.5.5.2"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IrisiMekoLab4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Amazon.Lambda.Core/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-goaq1LaH1UJB18BNG/Apxmn0P7dAlLWFbxU2nKxK+M4lH2KJaZDbtlP2gFEAJ+aENOMBHthaLPEtk3944J2OOg==",
+      "path": "amazon.lambda.core/1.2.0",
+      "hashPath": "amazon.lambda.core.1.2.0.nupkg.sha512"
+    },
+    "Amazon.Lambda.S3Events/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0Q092CYTFPeI0mYAo9NKsBKEtof2Q5dweGtBVQsH8u/gjMYph1kPJYNEMCkFOLZQDqQe1fRNfoITkzUiioByCQ==",
+      "path": "amazon.lambda.s3events/1.2.0",
+      "hashPath": "amazon.lambda.s3events.1.2.0.nupkg.sha512"
+    },
+    "Amazon.Lambda.Serialization.SystemTextJson/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-q2R4I77NrrAHDpcaWby9VA/XhE1tjG/2kpredwucRq7k4dTPCqqB7OFmbiFdlfuErrp2/9+X1l62c4unwVicpw==",
+      "path": "amazon.lambda.serialization.systemtextjson/2.1.0",
+      "hashPath": "amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512"
+    },
+    "AWSSDK.Core/3.5.1.42": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-X4JXKzpJNp6jOO34Hdpcow/scx3weQsssgCuj1GGdDpMWwOptlobOw/yrUNYrqoP315Gep7QRX5qnA9b9tf5fw==",
+      "path": "awssdk.core/3.5.1.42",
+      "hashPath": "awssdk.core.3.5.1.42.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SOCSc5O/tQHDeoknlTALhmAV1Gc3nHt0g7TBstnOVV5JDH22ejCXKRw49znu5JXayfKS8VuGXXCz4NQzLsnjwQ==",
+      "path": "awssdk.dynamodbv2/3.5.3",
+      "hashPath": "awssdk.dynamodbv2.3.5.3.nupkg.sha512"
+    },
+    "AWSSDK.Rekognition/3.5.2.15": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Pvxd7Q6EiScR17otaWCtC1/Mu/ra+/BUnZ39E1GzmrcmlrLtJNAoOYNJ94ZDn26a2GUXqeAWTgODdDwG4CABlQ==",
+      "path": "awssdk.rekognition/3.5.2.15",
+      "hashPath": "awssdk.rekognition.3.5.2.15.nupkg.sha512"
+    },
+    "AWSSDK.S3/3.5.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-x+EoeaM2lAADvHl0zm+eaIDa9zBEzPx4eU4LhhyItr1/mqQyyXEQiH0uM0naZyry9wq9tQeiVg4hYbCfAxPn4A==",
+      "path": "awssdk.s3/3.5.5.2",
+      "hashPath": "awssdk.s3.3.5.5.2.nupkg.sha512"
+    }
+  }
+}

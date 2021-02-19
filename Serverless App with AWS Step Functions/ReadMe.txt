@@ -1,0 +1,1 @@
+This is a serverless app that uses AWS step functions to build an image processing workflow. The app includes two lambda functions, one is to use AWS Rekognition service to detect label and add all those labels with confidence greater than 90 to image metadata which is stored in a DynamoDB table, and the other is to make a thumbnail for the image which should be stored in S3. 

@@ -1,0 +1,1 @@
+This is a windows forms app managing subscriptions and sending notifications to the subscibed email addressed/phone numbers.

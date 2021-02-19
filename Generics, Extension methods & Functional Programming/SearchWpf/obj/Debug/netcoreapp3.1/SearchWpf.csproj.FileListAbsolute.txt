@@ -1,0 +1,17 @@
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab4\ToSubmit\301072868(meko)_Lab4\SearchWpf\bin\Debug\netcoreapp3.1\SearchWpf.exe
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab4\ToSubmit\301072868(meko)_Lab4\SearchWpf\bin\Debug\netcoreapp3.1\SearchWpf.deps.json
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab4\ToSubmit\301072868(meko)_Lab4\SearchWpf\bin\Debug\netcoreapp3.1\SearchWpf.runtimeconfig.json
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab4\ToSubmit\301072868(meko)_Lab4\SearchWpf\bin\Debug\netcoreapp3.1\SearchWpf.runtimeconfig.dev.json
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab4\ToSubmit\301072868(meko)_Lab4\SearchWpf\bin\Debug\netcoreapp3.1\SearchWpf.dll
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab4\ToSubmit\301072868(meko)_Lab4\SearchWpf\bin\Debug\netcoreapp3.1\SearchWpf.pdb
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab4\ToSubmit\301072868(meko)_Lab4\SearchWpf\obj\Debug\netcoreapp3.1\SearchWpf.csprojAssemblyReference.cache
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab4\ToSubmit\301072868(meko)_Lab4\SearchWpf\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab4\ToSubmit\301072868(meko)_Lab4\SearchWpf\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab4\ToSubmit\301072868(meko)_Lab4\SearchWpf\obj\Debug\netcoreapp3.1\SearchWpf_MarkupCompile.cache
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab4\ToSubmit\301072868(meko)_Lab4\SearchWpf\obj\Debug\netcoreapp3.1\SearchWpf_MarkupCompile.lref
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab4\ToSubmit\301072868(meko)_Lab4\SearchWpf\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab4\ToSubmit\301072868(meko)_Lab4\SearchWpf\obj\Debug\netcoreapp3.1\SearchWpf.g.resources
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab4\ToSubmit\301072868(meko)_Lab4\SearchWpf\obj\Debug\netcoreapp3.1\SearchWpf.AssemblyInfoInputs.cache
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab4\ToSubmit\301072868(meko)_Lab4\SearchWpf\obj\Debug\netcoreapp3.1\SearchWpf.AssemblyInfo.cs
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab4\ToSubmit\301072868(meko)_Lab4\SearchWpf\obj\Debug\netcoreapp3.1\SearchWpf.dll
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab4\ToSubmit\301072868(meko)_Lab4\SearchWpf\obj\Debug\netcoreapp3.1\SearchWpf.pdb

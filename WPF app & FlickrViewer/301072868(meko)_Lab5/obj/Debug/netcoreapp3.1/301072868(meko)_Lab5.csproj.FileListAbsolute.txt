@@ -1,0 +1,17 @@
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab5\Lab#5\ToSubmit\301072868(meko)_Lab5\301072868(meko)_Lab5\301072868(meko)_Lab5\bin\Debug\netcoreapp3.1\301072868(meko)_Lab5.exe
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab5\Lab#5\ToSubmit\301072868(meko)_Lab5\301072868(meko)_Lab5\301072868(meko)_Lab5\bin\Debug\netcoreapp3.1\301072868(meko)_Lab5.deps.json
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab5\Lab#5\ToSubmit\301072868(meko)_Lab5\301072868(meko)_Lab5\301072868(meko)_Lab5\bin\Debug\netcoreapp3.1\301072868(meko)_Lab5.runtimeconfig.json
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab5\Lab#5\ToSubmit\301072868(meko)_Lab5\301072868(meko)_Lab5\301072868(meko)_Lab5\bin\Debug\netcoreapp3.1\301072868(meko)_Lab5.runtimeconfig.dev.json
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab5\Lab#5\ToSubmit\301072868(meko)_Lab5\301072868(meko)_Lab5\301072868(meko)_Lab5\bin\Debug\netcoreapp3.1\301072868(meko)_Lab5.dll
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab5\Lab#5\ToSubmit\301072868(meko)_Lab5\301072868(meko)_Lab5\301072868(meko)_Lab5\bin\Debug\netcoreapp3.1\301072868(meko)_Lab5.pdb
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab5\Lab#5\ToSubmit\301072868(meko)_Lab5\301072868(meko)_Lab5\301072868(meko)_Lab5\obj\Debug\netcoreapp3.1\301072868(meko)_Lab5.csprojAssemblyReference.cache
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab5\Lab#5\ToSubmit\301072868(meko)_Lab5\301072868(meko)_Lab5\301072868(meko)_Lab5\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab5\Lab#5\ToSubmit\301072868(meko)_Lab5\301072868(meko)_Lab5\301072868(meko)_Lab5\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab5\Lab#5\ToSubmit\301072868(meko)_Lab5\301072868(meko)_Lab5\301072868(meko)_Lab5\obj\Debug\netcoreapp3.1\301072868(meko)_Lab5_MarkupCompile.cache
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab5\Lab#5\ToSubmit\301072868(meko)_Lab5\301072868(meko)_Lab5\301072868(meko)_Lab5\obj\Debug\netcoreapp3.1\301072868(meko)_Lab5_MarkupCompile.lref
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab5\Lab#5\ToSubmit\301072868(meko)_Lab5\301072868(meko)_Lab5\301072868(meko)_Lab5\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab5\Lab#5\ToSubmit\301072868(meko)_Lab5\301072868(meko)_Lab5\301072868(meko)_Lab5\obj\Debug\netcoreapp3.1\301072868(meko)_Lab5.g.resources
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab5\Lab#5\ToSubmit\301072868(meko)_Lab5\301072868(meko)_Lab5\301072868(meko)_Lab5\obj\Debug\netcoreapp3.1\301072868(meko)_Lab5.AssemblyInfoInputs.cache
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab5\Lab#5\ToSubmit\301072868(meko)_Lab5\301072868(meko)_Lab5\301072868(meko)_Lab5\obj\Debug\netcoreapp3.1\301072868(meko)_Lab5.AssemblyInfo.cs
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab5\Lab#5\ToSubmit\301072868(meko)_Lab5\301072868(meko)_Lab5\301072868(meko)_Lab5\obj\Debug\netcoreapp3.1\301072868(meko)_Lab5.dll
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab5\Lab#5\ToSubmit\301072868(meko)_Lab5\301072868(meko)_Lab5\301072868(meko)_Lab5\obj\Debug\netcoreapp3.1\301072868(meko)_Lab5.pdb

@@ -1,0 +1,11 @@
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab4\ToSubmit\301072868(meko)_Lab4\NumberOfWordsCounting\bin\Debug\netcoreapp3.1\NumberOfWordsCounting.exe
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab4\ToSubmit\301072868(meko)_Lab4\NumberOfWordsCounting\bin\Debug\netcoreapp3.1\NumberOfWordsCounting.deps.json
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab4\ToSubmit\301072868(meko)_Lab4\NumberOfWordsCounting\bin\Debug\netcoreapp3.1\NumberOfWordsCounting.runtimeconfig.json
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab4\ToSubmit\301072868(meko)_Lab4\NumberOfWordsCounting\bin\Debug\netcoreapp3.1\NumberOfWordsCounting.runtimeconfig.dev.json
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab4\ToSubmit\301072868(meko)_Lab4\NumberOfWordsCounting\bin\Debug\netcoreapp3.1\NumberOfWordsCounting.dll
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab4\ToSubmit\301072868(meko)_Lab4\NumberOfWordsCounting\bin\Debug\netcoreapp3.1\NumberOfWordsCounting.pdb
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab4\ToSubmit\301072868(meko)_Lab4\NumberOfWordsCounting\obj\Debug\netcoreapp3.1\NumberOfWordsCounting.csprojAssemblyReference.cache
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab4\ToSubmit\301072868(meko)_Lab4\NumberOfWordsCounting\obj\Debug\netcoreapp3.1\NumberOfWordsCounting.AssemblyInfoInputs.cache
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab4\ToSubmit\301072868(meko)_Lab4\NumberOfWordsCounting\obj\Debug\netcoreapp3.1\NumberOfWordsCounting.AssemblyInfo.cs
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab4\ToSubmit\301072868(meko)_Lab4\NumberOfWordsCounting\obj\Debug\netcoreapp3.1\NumberOfWordsCounting.dll
+D:\Iris_college\Courses\Semester2\Comp212_Program3\Labs\Lab4\ToSubmit\301072868(meko)_Lab4\NumberOfWordsCounting\obj\Debug\netcoreapp3.1\NumberOfWordsCounting.pdb

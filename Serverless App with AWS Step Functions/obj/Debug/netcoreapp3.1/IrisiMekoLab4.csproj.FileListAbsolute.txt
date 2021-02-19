@@ -1,0 +1,15 @@
+D:\Iris_college\Courses\Semester3\COMP306_Cloud\Labs\Lab4\New\IrisiMekoLab4\bin\Debug\netcoreapp3.1\IrisiMekoLab4.deps.json
+D:\Iris_college\Courses\Semester3\COMP306_Cloud\Labs\Lab4\New\IrisiMekoLab4\bin\Debug\netcoreapp3.1\IrisiMekoLab4.runtimeconfig.json
+D:\Iris_college\Courses\Semester3\COMP306_Cloud\Labs\Lab4\New\IrisiMekoLab4\bin\Debug\netcoreapp3.1\IrisiMekoLab4.runtimeconfig.dev.json
+D:\Iris_college\Courses\Semester3\COMP306_Cloud\Labs\Lab4\New\IrisiMekoLab4\bin\Debug\netcoreapp3.1\IrisiMekoLab4.dll
+D:\Iris_college\Courses\Semester3\COMP306_Cloud\Labs\Lab4\New\IrisiMekoLab4\bin\Debug\netcoreapp3.1\Amazon.Lambda.Core.dll
+D:\Iris_college\Courses\Semester3\COMP306_Cloud\Labs\Lab4\New\IrisiMekoLab4\bin\Debug\netcoreapp3.1\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\Iris_college\Courses\Semester3\COMP306_Cloud\Labs\Lab4\New\IrisiMekoLab4\obj\Debug\netcoreapp3.1\IrisiMekoLab4.csprojAssemblyReference.cache
+D:\Iris_college\Courses\Semester3\COMP306_Cloud\Labs\Lab4\New\IrisiMekoLab4\obj\Debug\netcoreapp3.1\IrisiMekoLab4.AssemblyInfoInputs.cache
+D:\Iris_college\Courses\Semester3\COMP306_Cloud\Labs\Lab4\New\IrisiMekoLab4\obj\Debug\netcoreapp3.1\IrisiMekoLab4.AssemblyInfo.cs
+D:\Iris_college\Courses\Semester3\COMP306_Cloud\Labs\Lab4\New\IrisiMekoLab4\obj\Debug\netcoreapp3.1\IrisiMekoLab4.csproj.CopyComplete
+D:\Iris_college\Courses\Semester3\COMP306_Cloud\Labs\Lab4\New\IrisiMekoLab4\bin\Debug\netcoreapp3.1\Amazon.Lambda.S3Events.dll
+D:\Iris_college\Courses\Semester3\COMP306_Cloud\Labs\Lab4\New\IrisiMekoLab4\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+D:\Iris_college\Courses\Semester3\COMP306_Cloud\Labs\Lab4\New\IrisiMekoLab4\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+D:\Iris_college\Courses\Semester3\COMP306_Cloud\Labs\Lab4\New\IrisiMekoLab4\bin\Debug\netcoreapp3.1\AWSSDK.DynamoDBv2.dll
+D:\Iris_college\Courses\Semester3\COMP306_Cloud\Labs\Lab4\New\IrisiMekoLab4\bin\Debug\netcoreapp3.1\AWSSDK.Rekognition.dll
